@@ -1,7 +1,7 @@
-    Nama		      : Muhammad Qois Haidar
-    NRP		          : 3122600001
-    Kelas		      : 2 D4 Teknik Informatika A
-    Mata Kuliah	      : Workshop Administrasi Jaringan
+    Nama		  : Muhammad Qois Haidar
+    NRP		  : 3122600001
+    Kelas		  : 2 D4 Teknik Informatika A
+    Mata Kuliah	  : Workshop Administrasi Jaringan
     Dosen Pengampu	  : Dr. Ferry Astika Saputra S.T., M.Sc
     
 
